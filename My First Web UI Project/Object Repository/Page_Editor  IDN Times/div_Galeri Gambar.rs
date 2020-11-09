@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Galeri Gambar</name>
+   <tag></tag>
+   <elementGuidId>29c61e07-1a89-4f3d-b14d-fe987751f0dd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.GalleryStyles__gallery-header-title___S5sce</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='idn-editor']/div/div/div[2]/div[3]/div[4]/div/div/div[2]/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>GalleryStyles__gallery-header-title___S5sce</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Galeri Gambar</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;idn-editor&quot;)/div[@class=&quot;app__container___2_rqd&quot;]/div[1]/div[@class=&quot;app__editor-box___u2Pva&quot;]/div[@class=&quot;draft-fetched&quot;]/div[4]/div[@class=&quot;app__relative___tb66_&quot;]/div[@class=&quot;image-gallery app__relative___tb66_&quot;]/div[@class=&quot;relative&quot;]/div[@class=&quot;GalleryStyles__overlay___1MmSB&quot;]/div[@class=&quot;GalleryStyles__gallery-modal___zKxOs&quot;]/div[@class=&quot;GalleryStyles__gallery-header___36y7M&quot;]/div[@class=&quot;GalleryStyles__gallery-header-title___S5sce&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='idn-editor']/div/div/div[2]/div[3]/div[4]/div/div/div[2]/div/div/div/div</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div[2]/div/div/div/div</value>
+   </webElementXpaths>
+</WebElementEntity>

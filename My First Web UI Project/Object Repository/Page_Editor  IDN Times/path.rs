@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path</name>
+   <tag></tag>
+   <elementGuidId>1b0810e2-c25f-4b82-abb5-17a56c6151f5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;idn-editor&quot;)/div[@class=&quot;app__container___2_rqd&quot;]/div[1]/div[3]/div[@class=&quot;app__btn-group___3dG03 app__btn-group--right___1-XTh&quot;]/div[1]/a[@class=&quot;app__btn-action___2JQU-&quot;]/svg[@class=&quot;feather feather-eye&quot;]/g[1]/path[1]</value>
+   </webElementProperties>
+</WebElementEntity>
